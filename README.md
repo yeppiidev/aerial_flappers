@@ -10,3 +10,6 @@ A small flappy-bird clone made for MRE devices (Tested on Nokia 215)
 - Connect your device to your PC and when it asks for charging or mass storage, select the latter
 - Copy the patched `.vxp` into the memory card storage of the device
 - Disconnect the device, go to where you've copied the `.vxp`, open the file and enjoy the game
+
+# Demo:
+https://www.youtube.com/watch?v=OSxOwxL43XI
